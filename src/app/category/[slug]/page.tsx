@@ -55,7 +55,6 @@
 import { useParams } from "next/navigation";
 import data from "@/data/data.json";
 import Image from "next/image";
-import Link from "next/link";
 
 const CategoryDetailPage = () => {
   const params = useParams();

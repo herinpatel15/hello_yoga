@@ -142,7 +142,7 @@ export default function Home() {
             <p className='text-base sm:text-lg mt-4 text-gray-700 max-w-lg mx-auto lg:mx-0'>
               Discover the power of yoga with Namaskar Yoga. Learn traditional asanas, breathing techniques, and mindfulness practices to strengthen your body and calm your mind.
             </p>
-            <button className="btn btn-neutral mt-6 w-full sm:w-auto">Let's Start</button>
+            <button className="btn btn-neutral mt-6 w-full sm:w-auto">Let Start</button>
           </div>
           <div className='w-full lg:w-1/2 flex justify-center'>
             <Image 
@@ -150,7 +150,7 @@ export default function Home() {
               alt='hero' 
               width={500} 
               height={500}
-              className="max-w-full h-auto w-full max-w-md lg:max-w-lg"
+              className="max-w-full h-auto w-full lg:max-w-lg"
               priority
             />
           </div>
